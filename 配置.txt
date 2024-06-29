@@ -1,0 +1,3 @@
+Visual Studio 2019
+MySQL 8.0.13
+EasyX 绘图库支持 VC6.0 ~ VC2022 所有版本，EasyX 官网 https://easyx.cn 直接下载对应版本
